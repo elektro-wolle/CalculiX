@@ -69,3 +69,5 @@ dkms.conf
 *.frd
 *.sta
 *.stm
+
+CalculiX/ccx_2.15/src/ccx_2.15

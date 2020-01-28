@@ -25,7 +25,7 @@
 # | other than your home directory.      |
 # %--------------------------------------%
 #
-home = $(HOME)/Development/calculix/ARPACK
+home = $(PWD)
 #
 #  %--------------------------------------%
 #  | The platform identifier to suffix to |
